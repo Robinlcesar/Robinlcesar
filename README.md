@@ -5,11 +5,11 @@ Hi, i'm Robinson, but you can also call me Robin, for short. I like to take life
 ---
 
 ### Github stats
-[![Kototori's github stats](https://github-readme-stats.vercel.app/api?username=Kototori&show_icons=false&theme=dark)](https://github.com/Kototori/github-readme-stats)
+[![Kototori's github stats](https://github-readme-stats.vercel.app/api?username=Robinlcesar&show_icons=false&theme=dark)](https://github.com/Kototori/github-readme-stats)
 
 ---
 
 ### Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kototori&theme=dark)](https://github.com/kototori/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robinlcesar&theme=dark)](https://github.com/kototori/github-readme-stats)
 
 ###### Last update [04/11/2021]
